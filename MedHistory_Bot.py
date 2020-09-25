@@ -1,4 +1,4 @@
-# Psudocode formatting MedHistory writing (SP cases)
+# Pseudocode formatting MedHistory writing (SP cases)
 
 class 入院病历(basic_info, summary, 
 			current_report, past_history, 
